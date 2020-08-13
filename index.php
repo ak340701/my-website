@@ -1,0 +1,15 @@
+<docktype html!>
+<html>
+<head>
+</head>
+<title>testing website</title>
+
+<body>
+<h2>My Website</h2>
+<hr>
+This is my first website.
+
+</body>
+
+
+</html>
